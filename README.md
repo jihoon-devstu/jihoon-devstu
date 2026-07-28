@@ -9,11 +9,9 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-방문하기-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-jihoon-dev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-wlsgksvheh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wlsgksvheh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jihoon--devstu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jihoon-devstu)
-<!-- 포트폴리오 배포 후 주석 해제
-[![Portfolio](https://img.shields.io/badge/Portfolio-방문하기-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://배포도메인)
--->
 
 </div>
 
@@ -120,6 +118,6 @@ WebSocket(STOMP) 실시간 입찰 위에 **Redis Lua Script로 락 없는 원자
 
 <div align="center">
 
-<sub>📌 프로젝트의 상세한 문제 해결 과정(트러블슈팅 · 트레이드오프 · 한계와 다음 단계)은 웹 포트폴리오에 정리되어 있습니다.</sub>
+<sub>📌 프로젝트의 상세한 문제 해결 과정(트러블슈팅 · 트레이드오프 · 한계와 다음 단계)은<br/><b><a href="https://portfolio-jihoon-dev.vercel.app/">웹 포트폴리오 (portfolio-jihoon-dev.vercel.app)</a></b>에 정리되어 있습니다.</sub>
 
 </div>
