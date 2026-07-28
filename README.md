@@ -120,8 +120,6 @@ WebSocket(STOMP) 실시간 입찰 위에 **Redis Lua Script로 락 없는 원자
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihoon-devstu&show_icons=true&theme=default&hide_border=true&bg_color=ffffff)
-
 <sub>📌 프로젝트의 상세한 문제 해결 과정(트러블슈팅 · 트레이드오프 · 한계와 다음 단계)은 웹 포트폴리오에 정리되어 있습니다.</sub>
 
 </div>
