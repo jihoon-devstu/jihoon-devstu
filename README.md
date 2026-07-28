@@ -9,7 +9,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-방문하기-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-jihoon-dev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🔗_웹_포트폴리오_방문하기-portfolio--jihoon--dev.vercel.app-2563EB?style=for-the-badge&logoColor=white)](https://portfolio-jihoon-dev.vercel.app/)
+
 [![Email](https://img.shields.io/badge/Email-wlsgksvheh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wlsgksvheh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jihoon--devstu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jihoon-devstu)
 
@@ -38,6 +39,9 @@
 <br/>
 
 ## 🚀 Projects
+
+> 🔎 아래는 요약입니다. 각 프로젝트의 **문제 → 원인 → 해결 → 결과** 전 과정과 화면·다이어그램은<br/>
+> **[웹 포트폴리오 →](https://portfolio-jihoon-dev.vercel.app/)** 에서 확인할 수 있습니다.
 
 ### 🏆 Fantry — 실시간 중고 경매 플랫폼 `2025.09 – 2025.10`
 > 실시간 경매 시스템 총괄 (Full Stack 5인) — **대표 프로젝트**
@@ -118,6 +122,12 @@ WebSocket(STOMP) 실시간 입찰 위에 **Redis Lua Script로 락 없는 원자
 
 <div align="center">
 
-<sub>📌 프로젝트의 상세한 문제 해결 과정(트러블슈팅 · 트레이드오프 · 한계와 다음 단계)은<br/><b><a href="https://portfolio-jihoon-dev.vercel.app/">웹 포트폴리오 (portfolio-jihoon-dev.vercel.app)</a></b>에 정리되어 있습니다.</sub>
+## 📌 더 깊게 보고 싶다면
+
+**트러블슈팅 · 트레이드오프 · 한계와 다음 단계까지, 모든 문제 해결 과정을 기록했습니다.**
+
+### 👉 [웹 포트폴리오 방문하기](https://portfolio-jihoon-dev.vercel.app/) 👈
+
+[![Portfolio](https://img.shields.io/badge/portfolio--jihoon--dev.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-jihoon-dev.vercel.app/)
 
 </div>
