@@ -70,7 +70,7 @@ AI가 많은 일을 대신할수록 설계하고, 검증하고, 책임지는 사
 [![Backend](https://img.shields.io/badge/Backend-Repository-181717?style=flat-square&logo=github)](https://github.com/sesac-final-1/gotgan-backend)
 [![Frontend](https://img.shields.io/badge/Frontend-Repository-181717?style=flat-square&logo=github)](https://github.com/sesac-final-1/gotgan-frontend)
 [![Infra](https://img.shields.io/badge/Infra-Repository-181717?style=flat-square&logo=github)](https://github.com/sesac-final-1/gotgan-config)
-[![Guide](https://img.shields.io/badge/가이드_문서-gotganguide-2563EB?style=flat-square)](https://gotganguide.vercel.app/)
+[![Guide](https://img.shields.io/badge/가이드_문서-gotganguide-2563EB?style=flat-square)](https://gotganguide.vercel.app/) [![Mockup](https://img.shields.io/badge/목업_페이지-mockup-2563EB?style=flat-square)](https://mockup-page-sable.vercel.app/)
 
 `Java 21` `Spring Boot 4.1` `Spring Cloud Gateway` `Resilience4j` `MySQL` `Redis` `Keycloak` `AWS EKS` `Lambda` `SNS/SQS` `Terraform` `Argo CD` `k6`
 
