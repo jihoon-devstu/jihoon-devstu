@@ -43,6 +43,34 @@ AI가 많은 일을 대신할수록 설계하고, 검증하고, 책임지는 사
 
 <br/>
 
+## 📚 How I Study: DevStu Archive `운영 중`
+
+> **배운 것은 다른 사람에게 설명할 수 있을 때까지 정리합니다.**
+
+수업 자료, 노션 정리, 프로젝트 트러블슈팅을 주제별로 다시 묶어 직접 만들고 운영하는 학습 사이트입니다.<br/>
+AI 에이전트, 백엔드, 인프라, 프론트, 앱, CS까지 **공개 문서 165개, 주제 섹션 20개, 도식과 흐름도 850개 이상**.
+
+| 단계 | 하는 일 |
+|---|---|
+| **1. 모은다** | 수업 자료, 노션 정리, 프로젝트 기록을 한곳에. 곳간 트러블슈팅 90건을 주제별 사례로 재구성 |
+| **2. 다시 쓴다** | 외운 문장이 아니라 구조로: 흐름도, 계층도, 비교표. 장마다 "꼭 짚고 넘어갈 것"으로 마무리 |
+| **3. 설명한다** | 개발을 모르는 사람용 바이브코딩 가이드 25장, 면접 질문은 "정의 → 이유 → 경험 → 한계"로 정리 |
+| **4. 검증한다** | AI와 함께 만들되 테스트 237개로 확인, 전 문서 렌더링과 도식 정렬을 PC와 모바일에서 전수 검사 |
+
+<p align="center">
+  <a href="https://devstu-archive.vercel.app/"><img src="assets/devstu-archive.png" width="720" alt="DevStu Archive 바이브코딩 가이드 화면" /></a>
+  <br/>
+  <sub>바이브코딩 가이드 2장: 개발을 모르는 사람도 따라오도록 장면, 비유, 흐름도로 설명</sub>
+</p>
+
+<p align="center">
+  <a href="https://devstu-archive.vercel.app/"><img src="https://img.shields.io/badge/📚_DevStu_Archive_방문하기-devstu--archive.vercel.app-3D6B94?style=for-the-badge" alt="DevStu Archive" /></a>
+</p>
+
+`React` `Vite` `TypeScript` `Firebase` `Vercel` `Claude Code`
+
+<br/>
+
 ## 💪 해 본 것
 
 | 역량 | 내용 | 어디서 |
